@@ -28,10 +28,10 @@ Todos los pequeños proyectos que hago para probar cosas los mantengo privados.
 ---
 
 ## 🛠 Tecnologías que uso
-- C# / .NET  
+- C# / .NET (ASP)
 - MySQL(Dapper)  
 - GitHub
-
+- Aprendiendo Docker
 ---
 
 ## 🤝 Contacto
